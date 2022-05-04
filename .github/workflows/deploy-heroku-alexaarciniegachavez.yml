@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Deploy to heroku alexaarc
+name: Deploy to heroku alexaarciniegachavez
 
 # Controls when the workflow will run
 on:
